@@ -17,15 +17,7 @@
 
 ---
 
-### ✨ Let's Connect
-<p align="center">
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/facebook-new.png"/>
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/instagram-new.png"/>
-  </a>
-  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/whatsapp.png"/>
-  </a>
-</p>
+### 🔗 Let's Connect
+[![Facebook](https://img.shields.io/badge/Follow%20on-Facebook-blue?logo=facebook&style=for-the-badge)](https://facebook.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Follow%20on-Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/yourusername)
+[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/8801XXXXXXXXX)
