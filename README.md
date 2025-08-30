@@ -17,9 +17,10 @@
 
 ---
 
-### 📫 Reach me at:
-✉ yourmail@example.com  
-🌐 [GitHub](https://github.com/tinni2010)  
-
----
-⭐ Keep learning, keep building!
+### 🌐 Connect with me:
+<a href="https://www.facebook.com/share/14MkusuhxPG/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/> Facebook
+</a>  
+<a href="https://instagram.com/yourusername" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> Instagram
+</a>
