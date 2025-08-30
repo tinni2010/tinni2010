@@ -17,7 +17,19 @@
 
 ---
 
-### 🔗 Let's Connect
-[![Facebook](https://img.shields.io/badge/Follow%20on-Facebook-blue?logo=facebook&style=for-the-badge)](https://facebook.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Follow%20on-Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/yourusername)
-[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/8801XXXXXXXXX)
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://facebook.com/yourusername" target="blank">
+    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/> Facebook
+  </a>
+</p>
+<p align="left">
+  <a href="https://instagram.com/yourusername" target="blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/> Instagram
+  </a>
+</p>
+<p align="left">
+  <a href="https://wa.me/8801XXXXXXXXX" target="blank">
+    <img src="https://img.icons8.com/fluency/48/whatsapp.png" alt="WhatsApp"/> WhatsApp
+  </a>
+</p>
